@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64057764-339f-44ee-9013-0adc89a3ebac" name="Changes" comment="1-35&#10;Статический поле">
+    <list default="true" id="64057764-339f-44ee-9013-0adc89a3ebac" name="Changes" comment="1-41&#10;Интерфейсы и абстракт">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Descrip" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Descrip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="StaticMethod" />
+        <entry key="$PROJECT_DIR$" value="Static_Pole_variable" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737215229654</updated>
       <workItem from="1737215232155" duration="3756000" />
-      <workItem from="1737274881524" duration="6035000" />
+      <workItem from="1737274881524" duration="7484000" />
     </task>
     <task id="LOCAL-00001" summary="1-03">
       <created>1737215344154</created>
@@ -117,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737284969178</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1-41&#10;Интерфейсы и абстракт">
+      <created>1737286244590</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737286244590</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +150,7 @@
     <MESSAGE value="1-28&#10;конструктор" />
     <MESSAGE value="1-32&#10;Статический метод" />
     <MESSAGE value="1-35&#10;Статический поле" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-35&#10;Статический поле" />
+    <MESSAGE value="1-41&#10;Интерфейсы и абстракт" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-41&#10;Интерфейсы и абстракт" />
   </component>
 </project>

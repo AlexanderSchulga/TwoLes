@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64057764-339f-44ee-9013-0adc89a3ebac" name="Changes" comment="1-41&#10;Интерфейсы и абстракт">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractDog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Counter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/IDog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Static_Pole_variable" />
+        <entry key="$PROJECT_DIR$" value="Interface_Absctract" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737215229654</updated>
       <workItem from="1737215232155" duration="3756000" />
-      <workItem from="1737274881524" duration="7484000" />
+      <workItem from="1737274881524" duration="7707000" />
     </task>
     <task id="LOCAL-00001" summary="1-03">
       <created>1737215344154</created>
@@ -126,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737286244590</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1-41&#10;Интерфейсы и абстракт">
+      <created>1737287661095</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737287661095</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

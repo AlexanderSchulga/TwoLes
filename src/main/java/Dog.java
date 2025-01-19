@@ -6,6 +6,30 @@ public class Dog {
    //
    protected int speed = 20;
 
+   public Dog(){
+      //перегрузка конструктора, созданием пустого
+   }
+
+   //Конструктор
+
+   public Dog(String hairColor13, int speed){
+      this.hairColor = hairColor13;
+      //this.getHeartBeatRate();
+      //Даже если аргумент назыв
+      //-вается по другому, с помощью this. мы обращаемся
+      //к обьекту класса, методам текущего обьекта
+
+      this.hairColor = hairColor;//this--обращаемся
+      //к полю класса public String hairColor = "Red";
+      //Делается что бы не создавать лишних переменных типа
+      //hairColor1, hairColor2, ......
+      //иначе обращаемся к аргументу, а не полю класса
+
+      this.speed = speed;
+      //В конструкторе может быть сколько угодно параметров
+      //
+   }
+
    public int getHeartBeatRate() {
       return heartBeatRate;
    }

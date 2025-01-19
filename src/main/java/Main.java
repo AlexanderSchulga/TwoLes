@@ -1,31 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-
-        Dog dog = new Dog(); //обращение к класу дог
-        //Создается обьект класса собаки с
-        //конструктором по умолчанию --()
-
-         FlyingDog flyingDog = new FlyingDog();
-
-        //Dog flyingDog = new FlyingDog();//FlyingDog в Dog может
-        //при таком полиморфизме переменная fly может обращаться
-        //только к методам класса Dog
-        //И тут превратили flyingDog в обычную собаку
-        //Делается для того, когда хотим что бы в один и тотже
-        //метод передавались разные коллекции
-
-        // System.out.println(dog.hairColor);
-        System.out.println(dog.getHeartBeatRate());
-
-        woof(dog);
-        woof(flyingDog);
-        flyingDog.run();
-    }
-    //К примеру обе сабаки умеют лаять
-    public static void woof(Dog dog){
-
+        Dog dog1 = new Dog(); //для перегруженного конструктора
+        //Так как создан конструктор с параметрами
+        //В доге, тут можем изменять и задавать свойства
+        Dog dog = new Dog("green", 130);
         System.out.println(dog.hairColor);
-        System.out.println("woof");
+
+        System.out.println(dog1.hairColor);//для перегруженного конструктора
+
     }
 
 }

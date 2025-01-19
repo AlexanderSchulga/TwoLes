@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println(dog1.hairColor);//для перегруженного конструктора
 
+
     }
 
 }

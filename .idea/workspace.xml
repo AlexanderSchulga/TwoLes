@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64057764-339f-44ee-9013-0adc89a3ebac" name="Changes" comment="1-22&#10;Полиморфизм, наследование&#10;переопределение">
+    <list default="true" id="64057764-339f-44ee-9013-0adc89a3ebac" name="Changes" comment="1-28&#10;конструктор">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FlyingDog.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Leeson" />
+        <entry key="$PROJECT_DIR$" value="Lesson--Poli_nasled_abstract" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737215229654</updated>
       <workItem from="1737215232155" duration="3756000" />
-      <workItem from="1737274881524" duration="3541000" />
+      <workItem from="1737274881524" duration="4148000" />
     </task>
     <task id="LOCAL-00001" summary="1-03">
       <created>1737215344154</created>
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737276462033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1-28&#10;конструктор">
+      <created>1737283779709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737283779709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +121,7 @@
     <MESSAGE value="1-03" />
     <MESSAGE value="1-18&#10;Повторить полиморфизм на пару минут матануть назад и записать все в комментах в скрипте обязательно" />
     <MESSAGE value="1-22&#10;Полиморфизм, наследование&#10;переопределение" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-22&#10;Полиморфизм, наследование&#10;переопределение" />
+    <MESSAGE value="1-28&#10;конструктор" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-28&#10;конструктор" />
   </component>
 </project>
